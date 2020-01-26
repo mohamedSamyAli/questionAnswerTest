@@ -1,0 +1,7 @@
+D:\Tasks\dotnetcoreQuestionAnswer\backEnd\WepApi\Models\bin\Debug\netcoreapp3.1\Models.deps.json
+D:\Tasks\dotnetcoreQuestionAnswer\backEnd\WepApi\Models\bin\Debug\netcoreapp3.1\Models.dll
+D:\Tasks\dotnetcoreQuestionAnswer\backEnd\WepApi\Models\obj\Debug\netcoreapp3.1\Models.fsprojAssemblyReference.cache
+D:\Tasks\dotnetcoreQuestionAnswer\backEnd\WepApi\Models\obj\Debug\netcoreapp3.1\Models.fsproj.CoreCompileInputs.cache
+D:\Tasks\dotnetcoreQuestionAnswer\backEnd\WepApi\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+D:\Tasks\dotnetcoreQuestionAnswer\backEnd\WepApi\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfo.fs
+D:\Tasks\dotnetcoreQuestionAnswer\backEnd\WepApi\Models\bin\Debug\netcoreapp3.1\Models.dll.config
